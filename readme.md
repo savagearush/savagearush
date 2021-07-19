@@ -1,4 +1,4 @@
-![banner](https://github.com/savagearush/rogueModer/blob/main/Backgroud%20Image.png)
+![banner](https://github.com/savagearush/savagearush/blob/main/banner.png)
 
 
 👋 Hi, I’m Arush Sharma
