@@ -3,8 +3,8 @@
 
 👋 Hi, I’m Arush Sharma
 
-🌱 I’m currently learning Android Development Using React & React-Native
+🌱 I’m currently learning WebRTC and Signaling via Socketio.
 
-💞️ I’m looking to collaborate on JavaScript Projects.
+💞️ I’m looking to collaborate on JavaScript Projects and Work in Web Development.
 
-📫 How to reach me https://instagram.com/savage_arush
+📫 How to reach me https://linkedin.com/in/heyarush
